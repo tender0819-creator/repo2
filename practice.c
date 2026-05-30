@@ -2,7 +2,7 @@
 
 int main(){
 
-	int i = 0;
+	int i = 1;
 	int k = 0;
 
 	return 0;
